@@ -6,7 +6,7 @@
         {
            
             
-             for (int i=50;i<=70;i++)
+             for (int i=50;i<70;i++)
             {
                 int b = 0;
                 b = i;
